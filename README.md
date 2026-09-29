@@ -1,2 +1,2 @@
 # Practical-Statistics-for-Data-Scientist-Books
-https://a.co/d/0cuaprrK
+Python Code that I reproduce from Practical Statistics for Data Scientists books
