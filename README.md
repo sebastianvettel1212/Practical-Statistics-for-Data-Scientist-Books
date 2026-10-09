@@ -70,7 +70,7 @@ Beberapa penyesuaian terhadap kode buku, karena versi library yang lebih baru (p
 
 ## Bab 1 — Exploratory Data Analysis
 
-📓 [`Chapter_01_Exploratory_Data_Analysis.ipynb`](Chapter_01_Exploratory_Data_Analysis.ipynb)
+📓 [`Chapter_01_Exploratory_Data_Analysis.ipynb`](PracticalStatisticsChapter1.ipynb)
 
 Langkah pertama dan terpenting dalam proyek data science: **melihat datanya**. Bab ini berangkat dari gagasan John Tukey tentang *exploratory data analysis* dan membahas cara meringkas serta memvisualisasikan data.
 
@@ -96,7 +96,7 @@ Langkah pertama dan terpenting dalam proyek data science: **melihat datanya**. B
 
 ## Bab 2 — Data and Sampling Distributions
 
-📓 [`Chapter_02_Data_and_Sampling_Distributions.ipynb`](Chapter_02_Data_and_Sampling_Distributions.ipynb)
+📓 [`Chapter_02_Data_and_Sampling_Distributions.ipynb`](PracticalStatisticsChapter2.ipynb)
 
 Bagaimana kita menarik kesimpulan tentang populasi dari **sampel**, dan seberapa besar ketidakpastiannya.
 
@@ -124,7 +124,7 @@ Bagaimana kita menarik kesimpulan tentang populasi dari **sampel**, dan seberapa
 
 ## Bab 3 — Statistical Experiments and Significance Testing
 
-📓 [`Chapter_03_Statistical_Experiments_and_Significance_Testing.ipynb`](Chapter_03_Statistical_Experiments_and_Significance_Testing.ipynb)
+📓 [`Chapter_03_Statistical_Experiments_and_Significance_Testing.ipynb`](PracticalStatisticsChapter3.ipynb)
 
 Merancang eksperimen dan menilai apakah efek yang teramati **nyata atau hanya kebetulan**.
 
@@ -154,7 +154,7 @@ Merancang eksperimen dan menilai apakah efek yang teramati **nyata atau hanya ke
 
 ## Bab 4 — Regression and Prediction
 
-📓 [`Chapter_04_Regression_and_Prediction.ipynb`](Chapter_04_Regression_and_Prediction.ipynb)
+📓 [`Chapter_04_Regression_and_Prediction.ipynb`](PracticalStatisticsChapter4.ipynb)
 
 Regresi untuk **memprediksi nilai numerik** dan **menjelaskan hubungan** antar variabel, dengan contoh harga rumah di King County.
 
@@ -178,7 +178,7 @@ Regresi untuk **memprediksi nilai numerik** dan **menjelaskan hubungan** antar v
 
 ## Bab 5 — Classification
 
-📓 [`Chapter_05_Classification.ipynb`](Chapter_05_Classification.ipynb)
+📓 [`Chapter_05_Classification.ipynb`](PracticalStatisticsChapter5.ipynb)
 
 Memprediksi **kategori** (mis. pinjaman *default* atau *paid off*) memakai data Lending Club.
 
@@ -202,7 +202,7 @@ Memprediksi **kategori** (mis. pinjaman *default* atau *paid off*) memakai data 
 
 ## Bab 6 — Statistical Machine Learning
 
-📓 [`Chapter_06_Statistical_Machine_Learning.ipynb`](Chapter_06_Statistical_Machine_Learning.ipynb)
+📓 [`Chapter_06_Statistical_Machine_Learning.ipynb`](PracticalStatisticsChapter6.ipynb)
 
 Metode **berbasis data** yang belajar langsung dari data tanpa bentuk fungsi tetap: KNN dan keluarga ensemble pohon.
 
@@ -224,7 +224,7 @@ Metode **berbasis data** yang belajar langsung dari data tanpa bentuk fungsi tet
 
 ## Bab 7 — Unsupervised Learning
 
-📓 [`Chapter_07_Unsupervised_Learning.ipynb`](Chapter_07_Unsupervised_Learning.ipynb)
+📓 [`Chapter_07_Unsupervised_Learning.ipynb`](PracticalStatisticsChapter7.ipynb)
 
 Mengekstrak makna dari data **tanpa variabel hasil** yang diketahui: mereduksi dimensi dan mengelompokkan data.
 
