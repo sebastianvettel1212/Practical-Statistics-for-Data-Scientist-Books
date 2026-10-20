@@ -43,7 +43,7 @@ Repositori ini dibuat untuk tugas **Enrichment for Machine Learning Classes: Cod
 Practical Statistics for Data Scientists/
 ├── README.md
 ├── data/                      
-└── ├── Chapter_01_Exploratory_Data_Analysis.ipynb
+└────── Chapter_01_Exploratory_Data_Analysis.ipynb
     ├── Chapter_02_Data_and_Sampling_Distributions.ipynb
     ├── Chapter_03_Statistical_Experiments_and_Significance_Testing.ipynb
     ├── Chapter_04_Regression_and_Prediction.ipynb
